@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="577c5284-9691-458c-a861-db802265a325" version="5">
+  <Properties>
+    <Name>Enhanced Camera</Name>
+    <Description>Significantly increases zoom ranges at min and max. Adjusts tilt curves to have a more perpendicular camera angle in the middle and flatter at the most zoomed in for screenshots. Basic idea originates from Tactical Camera by Tom Illar.</Description>
+    <Created>1620763986</Created>
+    <Teaser>Significantly increases zoom ranges at min and max and adjusts tilt curves</Teaser>
+    <Author>DahakaMVl</Author>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <CompatibleVersions>2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions />
+  <InGameActions>
+    <UpdateArt id="NewAction">
+      <File>Civ.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Camera.artdef</File>
+    <File>Civ.dep</File>
+    <File>TacticalCamera.modinfo</File>
+  </Files>
+</Mod>
