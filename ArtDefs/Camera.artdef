@@ -123,7 +123,7 @@
 										<m_ParamName text="Time"/>
 									</Element>
 									<Element class="AssetObjects..FloatValue">
-										<m_fValue>1750.000000</m_fValue>
+										<m_fValue>1850.000000</m_fValue>
 										<m_ParamName text="Height"/>
 									</Element>
 								</m_Values>
@@ -1624,4 +1624,3 @@
 		</Element>
 	</m_RootCollections>
 </AssetObjects..ArtDefSet>
-

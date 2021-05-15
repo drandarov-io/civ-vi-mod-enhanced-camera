@@ -18,6 +18,6 @@
   <Files>
     <File>ArtDefs/Camera.artdef</File>
     <File>Civ.dep</File>
-    <File>TacticalCamera.modinfo</File>
+    <File>EnhancedCamera.modinfo</File>
   </Files>
 </Mod>
